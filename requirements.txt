@@ -1,1 +1,5 @@
 memory-profiler==0.61.0
+jsonlines==2.0.0
+python-dateutil==2.8.2
+collections-extended==1.0.3
+emoji==1.4.2
